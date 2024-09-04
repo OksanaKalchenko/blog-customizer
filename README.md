@@ -1,6 +1,6 @@
 # Проектная работа: Вёрстка проекта
 
-https://github.com/OksanaKalchenko/blog-customizer.git
+https://github.com/OksanaKalchenko/blog-customizer.git - автор проекта
 
 ## Шаг первый. Изучаем имеющиеся компоненты
 
