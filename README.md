@@ -7,7 +7,7 @@
 Для запуска Storybook выполните:
 
 ```
-npm run storybook
+npm run storybook aaa
 ```
 
 Для запуска линтера для стилей выполните:
